@@ -1,0 +1,8 @@
+{
+  "apps": [
+    {
+      "name": "node-boiler",
+      "script": "../current/app.js"
+    }
+  ]
+}
